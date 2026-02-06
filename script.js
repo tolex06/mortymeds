@@ -1,13 +1,13 @@
 // Dummy Product Data (Nigerian Context)
 const products = [
-    { id: 1, name: "Emzor Paracetamol", desc: "Pain relief tablets (20 pack)", price: 300, img: "https://via.placeholder.com/150?text=Paracetamol" },
-    { id: 2, name: "Vitamin C (1000mg)", desc: "Immune booster", price: 1500, img: "https://via.placeholder.com/150?text=Vitamin+C" },
-    { id: 3, name: "Coartem 80/480", desc: "Malaria treatment course", price: 2800, img: "https://via.placeholder.com/150?text=Coartem" },
-    { id: 4, name: "Dettol Antiseptic", desc: "Disinfectant Liquid 500ml", price: 3200, img: "https://via.placeholder.com/150?text=Dettol" },
-    { id: 5, name: "N95 Face Mask", desc: "Protective respiratory mask", price: 500, img: "https://via.placeholder.com/150?text=Mask" },
-    { id: 6, name: "Blood Pressure Monitor", desc: "Digital Omron Kit", price: 25000, img: "https://via.placeholder.com/150?text=BP+Monitor" },
-    { id: 7, name: "Gestid Suspension", desc: "Heartburn relief", price: 1200, img: "https://via.placeholder.com/150?text=Gestid" },
-    { id: 8, name: "Multivitamin Syrup", desc: "For kids appetite", price: 1800, img: "https://via.placeholder.com/150?text=Syrup" },
+    { id: 1, name: "Emzor Paracetamol", desc: "Pain relief tablets (20 pack)", price: 300, img: "https://www.emzorpharma.com/wp-content/uploads/2019/11/08-Paracetamol-96-WorldCup-Pack-View-01.png" },
+    { id: 2, name: "Vitamin C (1000mg)", desc: "Immune booster", price: 1500, img: "https://top-uppharmacy.com/wp-content/uploads/2023/07/Reedy-Vitamin-C-with-Zinc.jpg" },
+    { id: 3, name: "Coartem 80/480", desc: "Malaria treatment course", price: 2800, img: "https://top-uppharmacy.com/wp-content/uploads/2024/02/Coartem-Original-Tablets-80-480mg.jpg" },
+    { id: 4, name: "Dettol Antiseptic", desc: "Disinfectant Liquid 500ml", price: 3200, img: "https://betapharm.ng/wp-content/uploads/2024/10/images-18-2.jpeg" },
+    { id: 5, name: "Face Mask", desc: "Protective respiratory mask", price: 500, img: "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/30/3421014/1.jpg?5288" },
+    { id: 6, name: "Blood Pressure Monitor", desc: "Digital Omron Kit", price: 25000, img: "https://commercefiles.lon1.cdn.digitaloceanspaces.com/product/2024-08-07-66b365653f105.webp" },
+    { id: 7, name: "Gestid Suspension", desc: "Heartburn relief", price: 1200, img: "https://medecify.com/wp-content/uploads/2024/11/DC-B-D-EF-B-D-C-E-A-F-3000x3655.jpeg" },
+    { id: 8, name: "Multivitamin Syrup", desc: "For kids appetite", price: 1800, img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcDQnDFBnUDegxl0j92P0YR3YIiSbRQMNy7A&s" },
 ];
 
 // Load Products
